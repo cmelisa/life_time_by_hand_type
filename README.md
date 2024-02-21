@@ -1,2 +1,2 @@
-# solaklik_ve_omur_arasindaki_iliski
-Project using pandas and Bayesian statistics to see if left-handed people die earlier than right-handed people
+# life_time_by_hand_type
+It is a project that analyzes life expectancy according to hand types using Bayes' theorem and probability statistics.
